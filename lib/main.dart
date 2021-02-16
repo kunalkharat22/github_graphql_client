@@ -1,3 +1,10 @@
+import 'package:flutter/material.dart';
+import 'github_oauth_credentials.dart';
+import 'src/github_login.dart';
+
+void main() {
+  runApp(MyApp());
+}
 
 class MyApp extends StatelessWidget {
   @override
